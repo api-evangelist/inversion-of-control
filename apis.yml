@@ -1,12 +1,23 @@
-name: Inversion Of Control
-description: Inversion Of Control is a specialized technology or methodology in the
-  inversion domain that addresses specific technical or business requirements. It
-  provides targeted capabilities that help practitioners and organizations solve problems
-  and improve outcomes in their area of focus.
-url: null
+aid: inversion-of-control
+name: Inversion of Control
+description: >-
+  Inversion of Control (IoC) is a software design principle where the control
+  flow of a program is inverted compared to traditional programming. Instead of
+  application code calling frameworks, frameworks call application code. Common
+  implementations include Dependency Injection and event-driven programming.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Inversion Of Control
-created: '2025'
-modified: '2025'
+  - Inversion of Control
+  - Software Architecture
+  - Design Patterns
+  - Dependency Injection
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/inversion-of-control/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
