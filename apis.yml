@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
+  - Dependency Injection
+  - Design Patterns
   - Inversion of Control
   - Software Architecture
-  - Design Patterns
-  - Dependency Injection
 url: >-
   https://raw.githubusercontent.com/api-evangelist/inversion-of-control/refs/heads/main/apis.yml
 created: '2025-01-01'
